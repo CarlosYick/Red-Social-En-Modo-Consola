@@ -1,0 +1,28 @@
+C:\Users\Carlos Yick\Desktop\prueba tecnica\SocialNetworkConsoleApp\obj\Debug\net8.0\SocialNetworkConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Yick\Desktop\prueba tecnica\SocialNetworkConsoleApp\obj\Debug\net8.0\SocialNetworkConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Carlos Yick\Desktop\prueba tecnica\SocialNetworkConsoleApp\obj\Debug\net8.0\SocialNetworkConsoleApp.AssemblyInfo.cs
+C:\Users\Carlos Yick\Desktop\prueba tecnica\SocialNetworkConsoleApp\obj\Debug\net8.0\SocialNetworkConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Yick\Desktop\prueba tecnica\SocialNetworkConsoleApp\bin\Debug\net8.0\SocialNetworkConsoleApp.exe
+C:\Users\Carlos Yick\Desktop\prueba tecnica\SocialNetworkConsoleApp\bin\Debug\net8.0\SocialNetworkConsoleApp.deps.json
+C:\Users\Carlos Yick\Desktop\prueba tecnica\SocialNetworkConsoleApp\bin\Debug\net8.0\SocialNetworkConsoleApp.runtimeconfig.json
+C:\Users\Carlos Yick\Desktop\prueba tecnica\SocialNetworkConsoleApp\bin\Debug\net8.0\SocialNetworkConsoleApp.dll
+C:\Users\Carlos Yick\Desktop\prueba tecnica\SocialNetworkConsoleApp\bin\Debug\net8.0\SocialNetworkConsoleApp.pdb
+C:\Users\Carlos Yick\Desktop\prueba tecnica\SocialNetworkConsoleApp\obj\Debug\net8.0\SocialNetworkConsoleApp.dll
+C:\Users\Carlos Yick\Desktop\prueba tecnica\SocialNetworkConsoleApp\obj\Debug\net8.0\refint\SocialNetworkConsoleApp.dll
+C:\Users\Carlos Yick\Desktop\prueba tecnica\SocialNetworkConsoleApp\obj\Debug\net8.0\SocialNetworkConsoleApp.pdb
+C:\Users\Carlos Yick\Desktop\prueba tecnica\SocialNetworkConsoleApp\obj\Debug\net8.0\SocialNetworkConsoleApp.genruntimeconfig.cache
+C:\Users\Carlos Yick\Desktop\prueba tecnica\SocialNetworkConsoleApp\obj\Debug\net8.0\ref\SocialNetworkConsoleApp.dll
+C:\Users\Carlos Yick\Desktop\Red Social Modo Consola\SocialNetworkConsoleApp\bin\Debug\net8.0\SocialNetworkConsoleApp.exe
+C:\Users\Carlos Yick\Desktop\Red Social Modo Consola\SocialNetworkConsoleApp\bin\Debug\net8.0\SocialNetworkConsoleApp.deps.json
+C:\Users\Carlos Yick\Desktop\Red Social Modo Consola\SocialNetworkConsoleApp\bin\Debug\net8.0\SocialNetworkConsoleApp.runtimeconfig.json
+C:\Users\Carlos Yick\Desktop\Red Social Modo Consola\SocialNetworkConsoleApp\bin\Debug\net8.0\SocialNetworkConsoleApp.dll
+C:\Users\Carlos Yick\Desktop\Red Social Modo Consola\SocialNetworkConsoleApp\bin\Debug\net8.0\SocialNetworkConsoleApp.pdb
+C:\Users\Carlos Yick\Desktop\Red Social Modo Consola\SocialNetworkConsoleApp\obj\Debug\net8.0\SocialNetworkConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Yick\Desktop\Red Social Modo Consola\SocialNetworkConsoleApp\obj\Debug\net8.0\SocialNetworkConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Carlos Yick\Desktop\Red Social Modo Consola\SocialNetworkConsoleApp\obj\Debug\net8.0\SocialNetworkConsoleApp.AssemblyInfo.cs
+C:\Users\Carlos Yick\Desktop\Red Social Modo Consola\SocialNetworkConsoleApp\obj\Debug\net8.0\SocialNetworkConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Yick\Desktop\Red Social Modo Consola\SocialNetworkConsoleApp\obj\Debug\net8.0\SocialNetworkConsoleApp.dll
+C:\Users\Carlos Yick\Desktop\Red Social Modo Consola\SocialNetworkConsoleApp\obj\Debug\net8.0\refint\SocialNetworkConsoleApp.dll
+C:\Users\Carlos Yick\Desktop\Red Social Modo Consola\SocialNetworkConsoleApp\obj\Debug\net8.0\SocialNetworkConsoleApp.pdb
+C:\Users\Carlos Yick\Desktop\Red Social Modo Consola\SocialNetworkConsoleApp\obj\Debug\net8.0\SocialNetworkConsoleApp.genruntimeconfig.cache
+C:\Users\Carlos Yick\Desktop\Red Social Modo Consola\SocialNetworkConsoleApp\obj\Debug\net8.0\ref\SocialNetworkConsoleApp.dll

@@ -1,0 +1,766 @@
+{
+  "SocialNetworkConsoleApp.dll": {
+    "C:\\Users\\Carlos Yick\\Desktop\\prueba tecnica\\SocialNetworkConsoleApp\\Aplicacion.cs": {
+      "Aplicacion": {
+        "System.Collections.Generic.List`1<Usuario> Aplicacion::get_Usuarios()": {
+          "Lines": {
+            "3": 41
+          },
+          "Branches": []
+        },
+        "System.Void Aplicacion::.ctor()": {
+          "Lines": {
+            "5": 11,
+            "6": 11,
+            "7": 11,
+            "8": 11,
+            "9": 11,
+            "10": 11,
+            "11": 11,
+            "12": 11,
+            "13": 11
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Carlos Yick\\Desktop\\prueba tecnica\\SocialNetworkConsoleApp\\Comando.cs": {
+      "Comando": {
+        "System.Void Comando::Post(System.String,System.String)": {
+          "Lines": {
+            "16": 3,
+            "17": 14,
+            "18": 3,
+            "19": 1,
+            "20": 1,
+            "23": 2,
+            "24": 1,
+            "25": 1,
+            "28": 1,
+            "29": 1,
+            "31": 1,
+            "32": 1
+          },
+          "Branches": [
+            {
+              "Line": 18,
+              "Offset": 49,
+              "EndOffset": 51,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 18,
+              "Offset": 49,
+              "EndOffset": 79,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 23,
+              "Offset": 87,
+              "EndOffset": 89,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 23,
+              "Offset": 87,
+              "EndOffset": 101,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void Comando::Follow(System.String,System.String)": {
+          "Lines": {
+            "36": 2,
+            "37": 9,
+            "38": 10,
+            "40": 2,
+            "41": 1,
+            "42": 1,
+            "45": 1,
+            "46": 0,
+            "47": 0,
+            "50": 1,
+            "52": 1,
+            "53": 1
+          },
+          "Branches": [
+            {
+              "Line": 40,
+              "Offset": 85,
+              "EndOffset": 87,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 40,
+              "Offset": 85,
+              "EndOffset": 115,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 45,
+              "Offset": 123,
+              "EndOffset": 125,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 45,
+              "Offset": 123,
+              "EndOffset": 153,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void Comando::Dashboard(System.String)": {
+          "Lines": {
+            "56": 1,
+            "57": 5,
+            "58": 1,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "64": 4,
+            "65": 7,
+            "66": 2,
+            "67": 2,
+            "68": 2,
+            "69": 2,
+            "70": 2,
+            "71": 2,
+            "73": 2,
+            "74": 2,
+            "75": 2,
+            "76": 1
+          },
+          "Branches": [
+            {
+              "Line": 58,
+              "Offset": 49,
+              "EndOffset": 51,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 58,
+              "Offset": 49,
+              "EndOffset": 84,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 65,
+              "Offset": 374,
+              "EndOffset": 182,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 2
+            },
+            {
+              "Line": 67,
+              "Offset": 201,
+              "EndOffset": 206,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            },
+            {
+              "Line": 69,
+              "Offset": 214,
+              "EndOffset": 216,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 214,
+              "EndOffset": 223,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 2
+            },
+            {
+              "Line": 70,
+              "Offset": 239,
+              "EndOffset": 241,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 2
+            },
+            {
+              "Line": 70,
+              "Offset": 239,
+              "EndOffset": 255,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 70,
+              "Offset": 253,
+              "EndOffset": 255,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 70,
+              "Offset": 253,
+              "EndOffset": 262,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 2
+            },
+            {
+              "Line": 67,
+              "Offset": 201,
+              "EndOffset": 366,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            },
+            {
+              "Line": 65,
+              "Offset": 374,
+              "EndOffset": 379,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void Comando::Load(System.String)": {
+          "Lines": {
+            "80": 1,
+            "81": 1,
+            "83": 1,
+            "84": 1,
+            "85": 1,
+            "88": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "95": 0,
+            "97": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "122": 0,
+            "123": 0,
+            "125": 0,
+            "127": 0,
+            "128": 0
+          },
+          "Branches": [
+            {
+              "Line": 83,
+              "Offset": 29,
+              "EndOffset": 31,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 83,
+              "Offset": 29,
+              "EndOffset": 49,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 91,
+              "Offset": 390,
+              "EndOffset": 77,
+              "Path": 1,
+              "Ordinal": 19,
+              "Hits": 0
+            },
+            {
+              "Line": 97,
+              "Offset": 140,
+              "EndOffset": 142,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 97,
+              "Offset": 154,
+              "EndOffset": 159,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 97,
+              "Offset": 140,
+              "EndOffset": 181,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 100,
+              "Offset": 186,
+              "EndOffset": 188,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 100,
+              "Offset": 186,
+              "EndOffset": 209,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 100,
+              "Offset": 214,
+              "EndOffset": 216,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 100,
+              "Offset": 214,
+              "EndOffset": 231,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 104,
+              "Offset": 245,
+              "EndOffset": 247,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 97,
+              "Offset": 154,
+              "EndOffset": 287,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 110,
+              "Offset": 298,
+              "EndOffset": 300,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 97,
+              "Offset": 171,
+              "EndOffset": 333,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 116,
+              "Offset": 344,
+              "EndOffset": 346,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 0
+            },
+            {
+              "Line": 97,
+              "Offset": 171,
+              "EndOffset": 368,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 104,
+              "Offset": 245,
+              "EndOffset": 381,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 110,
+              "Offset": 298,
+              "EndOffset": 381,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 116,
+              "Offset": 344,
+              "EndOffset": 381,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 0
+            },
+            {
+              "Line": 91,
+              "Offset": 390,
+              "EndOffset": 395,
+              "Path": 0,
+              "Ordinal": 18,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void Comando::CrearUsuario(System.String)": {
+          "Lines": {
+            "137": 1,
+            "139": 4,
+            "140": 1,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "147": 1,
+            "150": 1,
+            "152": 1,
+            "153": 1
+          },
+          "Branches": [
+            {
+              "Line": 140,
+              "Offset": 49,
+              "EndOffset": 51,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 140,
+              "Offset": 49,
+              "EndOffset": 81,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void Comando::.ctor()": {
+          "Lines": {
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.Void Comando::.ctor(Aplicacion)": {
+          "Lines": {
+            "10": 8,
+            "11": 8,
+            "12": 8,
+            "13": 8
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Carlos Yick\\Desktop\\prueba tecnica\\SocialNetworkConsoleApp\\Mensaje.cs": {
+      "Mensaje": {
+        "System.String Mensaje::get_Contenido()": {
+          "Lines": {
+            "3": 16
+          },
+          "Branches": []
+        },
+        "System.DateTime Mensaje::get_HoraDePublicacion()": {
+          "Lines": {
+            "4": 18
+          },
+          "Branches": []
+        },
+        "Usuario Mensaje::get_Usuario()": {
+          "Lines": {
+            "5": 17
+          },
+          "Branches": []
+        },
+        "System.Void Mensaje::.ctor(System.String,System.DateTime,Usuario)": {
+          "Lines": {
+            "7": 8,
+            "8": 8,
+            "9": 8,
+            "10": 8,
+            "11": 8,
+            "12": 8
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Carlos Yick\\Desktop\\prueba tecnica\\SocialNetworkConsoleApp\\Program.cs": {
+      "Program": {
+        "System.Void Program::Main(System.String[])": {
+          "Lines": {
+            "4": 0,
+            "6": 0,
+            "9": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "24": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "32": 0,
+            "33": 0,
+            "35": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "54": 0,
+            "55": 0,
+            "57": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "64": 0,
+            "65": 0,
+            "67": 0
+          },
+          "Branches": [
+            {
+              "Line": 24,
+              "Offset": 139,
+              "EndOffset": 141,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 153,
+              "EndOffset": 158,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 170,
+              "EndOffset": 175,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 139,
+              "EndOffset": 197,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 27,
+              "Offset": 210,
+              "EndOffset": 212,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 235,
+              "EndOffset": 237,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 235,
+              "EndOffset": 251,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 153,
+              "EndOffset": 293,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 42,
+              "Offset": 303,
+              "EndOffset": 305,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 170,
+              "EndOffset": 336,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 48,
+              "Offset": 346,
+              "EndOffset": 348,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 187,
+              "EndOffset": 369,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 382,
+              "EndOffset": 384,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 187,
+              "EndOffset": 423,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 27,
+              "Offset": 210,
+              "EndOffset": 436,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 42,
+              "Offset": 303,
+              "EndOffset": 436,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 48,
+              "Offset": 346,
+              "EndOffset": 436,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 382,
+              "EndOffset": 436,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Carlos Yick\\Desktop\\prueba tecnica\\SocialNetworkConsoleApp\\Usuario.cs": {
+      "Usuario": {
+        "System.String Usuario::get_Nombre()": {
+          "Lines": {
+            "3": 102
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<Mensaje> Usuario::get_Mensajes()": {
+          "Lines": {
+            "4": 67
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<Usuario> Usuario::get_UsuariosSeguidos()": {
+          "Lines": {
+            "5": 66
+          },
+          "Branches": []
+        },
+        "System.Void Usuario::.ctor(System.String)": {
+          "Lines": {
+            "7": 53,
+            "8": 53,
+            "9": 53,
+            "10": 53,
+            "11": 53,
+            "12": 53
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
